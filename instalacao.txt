@@ -1,0 +1,13 @@
+1 - enviar arquivos para servidor, a estrutura de pastas deve ser mantida nesta mesma organização, na raiz do public_html
+
+
+2- criar o banco de dados e inserir os dados de acesso no arquivo ./config.php
+
+
+3 - gerar as tabelas no banco de dados conforme o script dva.sql
+
+
+4 - acessar a area de login em /sistema
+login = usuario
+senha =  senha
+

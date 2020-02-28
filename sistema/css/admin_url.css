@@ -1,0 +1,44 @@
+.current-logo{
+    width: 400px;
+    height: 59px;
+    display:table;
+    padding: 10px;
+    text-align:center;
+    margin-top: 14px;
+}
+
+.current-logo img{
+    max-width: 360px;
+    max-height: 60px;
+}
+
+
+.flagst{
+    position: relative;
+    float: left;
+    margin-right: 6px;
+    margin-top: 20px;
+}
+.textareas{
+    width: 640px;
+    /*border: 1px solid #ffcc00;*/
+    position: relative;
+    float: left;
+    display: table;
+    margin-top: 20px;
+}
+.flags{
+    margin-top: 8px;
+    position: relative;
+    float: left;
+    margin-right: 6px;
+}
+.text-language{
+    position; relative;
+    float: left;
+}
+
+#clientSpecs{
+    width: 640px;
+    margin-top: 20px;
+}
